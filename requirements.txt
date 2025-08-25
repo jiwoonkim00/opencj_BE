@@ -2,3 +2,6 @@ fastapi
 uvicorn[standard]
 pydantic
 python-dotenv
+pydantic-settings==2.6.1
+numpy
+google-generativeai
